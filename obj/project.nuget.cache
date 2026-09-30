@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BqGXeb6VP1g=",
+  "success": true,
+  "projectFilePath": "/Users/1784dtidigital/Documents/dev/pessoal-projects/faculdade/SiteDoisBlazor/SiteDoisBlazor.csproj",
+  "expectedPackageFiles": [
+    "/Users/1784dtidigital/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.12/microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
